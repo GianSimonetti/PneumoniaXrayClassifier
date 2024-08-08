@@ -14,3 +14,6 @@ A convolutional neural network (CNN) model is used, consisting of several convol
 
 ### Training and Evaluation
 The model is trained with the preprocessed images for 20 epochs. TensorBoard is used for monitoring the training process. The model's accuracy is evaluated on both the training and test data.
+
+### Data to train the model in release
+https://github.com/GianSimonetti/PneumoniaXrayClassifier/releases/tag/v1.0
